@@ -13,7 +13,4 @@ The highest score is saved and displayed at every game.
 
 
 
-The content of this repository is from a Udemy JavaScript course created by Jonas Schmedtmann.
-
-I have written the scripts throughout the course.
-
+The project originated from a course. I developed the app based on the course material and implemented several enhancements to improve its functionality and overall user experience.
